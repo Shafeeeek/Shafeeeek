@@ -3,14 +3,6 @@
 <h1>Hi 👋, I'm Shafeeeek</h1>
 <h3>A passionate Frontend and Flutter Developer from Egypt</h3>
 
-<img src="https://github.com/user-attachments/assets/e34346c3-49df-402f-8420-5d1addef1d00" alt="Developer Skills" width="400"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=shafeeeek&label=Profile%20views&color=0e75b6&style=flat" alt="shafeeeek" />
-
-<br><br>
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=shafeeeek" alt="GitHub Trophies" />
 </a>
