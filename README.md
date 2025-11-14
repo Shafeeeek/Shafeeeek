@@ -14,8 +14,6 @@
 💬 Ask me about <strong>React, Dart</strong> <br>
 📫 How to reach me: <strong>caryou565@gmail.com</strong>
 
-<br><br>
-
 <h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/mohamed-a-shafeek-/" target="_blank">
