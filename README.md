@@ -67,10 +67,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeeeek&" alt="GitHub Streak" />
-
-<br><br>
-
 <p>© 2025 Made with ❤️ by <strong>Shafeeeek</strong></p>
 
 </div>
