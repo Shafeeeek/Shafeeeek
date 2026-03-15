@@ -89,6 +89,6 @@ email:      caryou565@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6aff&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>© 2026 · Made with ❤️ by <strong>Shafeeeek</strong></sub>
+<sub>© 2023 · Made with ❤️ by <strong>Shafeeeek</strong></sub>
 
 </div>
