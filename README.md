@@ -15,10 +15,6 @@
 ```yaml
 name:       Mohamed A. Shafeek
 location:   Egypt 🇪🇬
-role:       Frontend & Flutter Developer
-focus:      Flutter applications
-learning:   Flutter & Dart (deep dive)
-ask_me:     React · Dart · UI/UX in mobile apps
 email:      caryou565@gmail.com
 ```
 
