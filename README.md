@@ -20,16 +20,6 @@ email:      caryou565@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shafeeeek&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophies"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
